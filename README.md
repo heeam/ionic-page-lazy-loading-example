@@ -58,3 +58,9 @@ Environment Variables:
 Misc:
 
     backend : legacy
+
+## Reference
+
+" [Ionic3] Comparison and Conversion to @ionicPage " (needs to use Korean translation, 글 내용이 한국어 입니다)
+
+http://heeam.org/archives/1028
